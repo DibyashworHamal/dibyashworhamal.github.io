@@ -47,4 +47,5 @@ I am an NEC Licensed Computer Engineer actively seeking entry-level opportunitie
 
 ---
 *Template credit: [BootstrapMade iPortfolio](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)*
-```
+
+---
